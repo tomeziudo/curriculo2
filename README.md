@@ -1,2 +1,2 @@
 # curriculo2
-Meu curr´culo desenvolvido com HTML e CSS
+Meu currículo desenvolvido com HTML e CSS
