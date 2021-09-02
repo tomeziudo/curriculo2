@@ -1,0 +1,80 @@
+.foto-perfil{
+    width: 200px;
+    border: 5px double #ececec;
+}
+
+.cabecalho{
+    background-color: peru;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-image: url(fundo.jpg);
+    background-size: cover;
+}
+
+.nome{
+    color: white;
+    margin-top: 5px;
+    margin-bottom:0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 38px;
+}
+
+.cargo{
+    color: yellow;
+    margin-top: 3px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300px;
+    font-size: 22px;
+}
+
+.botao{
+    border: 1px solid white;
+    display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 8px;
+}
+
+.botao:hover{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-color: salmon;
+}
+
+.informacoes{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: whitesmoke;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+    border-bottom: 1px solid;
+    margin-top: 30px;
+    text-transform: uppercase;
+}
+
+.texto-sobre{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    color: grey;
+}
